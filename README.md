@@ -1,1 +1,2 @@
 # Traffic_Sign_Detection
+Traffic sign detection and recognition plays an important role in expert systems, such as traffic assistance driving systems and automatic driving systems. It instantly assists drivers or automatic driving systems in detecting and recognizing traffic signs effectively. Vehicle is able to recognize the traffic signs put on the road e.g. "speed limit" or "children" or "turn ahead". ![image](https://github.com/user-attachments/assets/5b7656ec-55fd-4919-ad11-b0d0d09debdf)
